@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there, I'm Angie, an inquisitive learner who thrives on encountering challenges to expand my knowledge and skills. I have a passion for building better and more efficient mobile apps, constantly striving for excellence in my work. 
+Hello there! I'm Angie, an inquisitive learner who loves building better and more efficient mobile apps. I thrive on encountering challenges that expand my knowledge and skills. Here's a bit about me and what I'm currently working on:
 
 ## About Me
 
@@ -13,10 +13,11 @@ Hello there, I'm Angie, an inquisitive learner who thrives on encountering chall
 
 Throughout my journey as a developer, I have worked on several projects and contributed to various open-source repositories. I believe in the power of collaboration and the impact it can have on the development community.
 
-<!---
-Anjie167/Anjie167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have published two Medium posts that dive into the seamless transition from Flutter to React, introducing a package that provides familiar widget styles and on Flutteflow csv list import with Node.JS. You can find the posts here: [Medium Post 1](https://medium.com/@anjie167/title-a-seamless-transition-from-flutter-to-react-introducing-a-package-for-familiar-widget-style-cfdae87b9b8e) and [Medium Post 2](https://medium.com/@anjie167/title-importing-csv-data-into-firestore-with-node-js-a-solution-for-the-flutterflow-community-41497efdddd8).
+
+I have also released an npm package called `@anjie167/flutter_components`, which includes a set of Flutter-inspired components for React developers. You can find the package here: [npm Package](https://www.npmjs.com/package/@anjie167/flutter_components).
+
+Additionally, I have created a Node.js code snippet that allows FlutterFlow developers to import a list of data from CSV to Firebase. This code snippet can greatly simplify the data import process and enhance the workflow. You can find the code snippet in my repositories.
 
 ## Let's Connect
 
